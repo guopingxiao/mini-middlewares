@@ -595,6 +595,6 @@ res is {"code":200,"result":"req ssh success"}
 希望看了这篇文章的你，能对于前端库中的中间件机制有进一步的了解，进而为你自己的前端库加入合适的中间件能力。
 
 本文所写的代码都整理在这个仓库里了：  
-https://github.com/sl1673495/mini-middlewares  
+https://github.com/guopingxiao/mini-middlewares  
 
 代码是使用ts编写的，js版本的代码在js文件夹内，各位可以按自己的需求来看。
